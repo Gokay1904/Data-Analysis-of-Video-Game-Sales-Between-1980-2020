@@ -1,7 +1,7 @@
 # Data-Analysis-of-Video-Game-Sales-Between-1980-2020
 This project includes the analysis of regional and global sales of video game companies in the last 40 years.
 
-Some of the examined datas:
+Some of the analyzed datas:
 
 Distribution of game companies' sales to the American, European and Japanese markets
 
