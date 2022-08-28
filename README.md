@@ -1,5 +1,5 @@
 # Data-Analysis-of-Video-Game-Sales-Between-1980-2020
-This project includes the analysis of sales made by more than 540 companies in the last 40 years.
+This project includes the analysis of regional and global sales of video game companies in the last 40 years.
 
 The project yet includes: 
 
