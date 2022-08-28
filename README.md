@@ -8,3 +8,6 @@ Distribution of game companies' sales to the American, European and Japanese mar
 Publishers with the highest sales in Europe, America and Asia and in total.
 
 The position of the top selling game company in the world markets and its position relative to its competitors
+
+
+Data Source: Kaggle
