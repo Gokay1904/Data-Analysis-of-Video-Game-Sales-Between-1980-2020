@@ -9,5 +9,7 @@ Publishers with the highest sales in Europe, America and Asia and in total.
 
 The position of the top selling game company in the world markets and its position relative to its competitors
 
+Popular genres their popularity in different regions
+
 
 Data Source: Kaggle
