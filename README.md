@@ -17,4 +17,4 @@ Popular genres and their popularity in different regions
 
 Data Source: Kaggle
 
-Note: There may be inaccurate inferences due to some missing data. It's just my personal work.
+Note: There may be inaccurate inferences due to some missing(NaN) data. It's just my personal work.
