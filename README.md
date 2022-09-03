@@ -19,7 +19,7 @@ This project includes the analysis of regional and global sales of video game co
   - Publisher which has a most steady increase in the top 20
   - The company with the fastest sales growth
 
-Data Source: Kaggle
+**Data Source: Kaggle**
 
 #### Libraries used:
 
