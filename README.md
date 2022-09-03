@@ -20,5 +20,3 @@ This project includes the analysis of regional and global sales of video game co
   - The company with the fastest sales growth
 
 Data Source: Kaggle
-
-Note: There may be inaccurate inferences due to some missing(NaN) data. It's just my personal work.
