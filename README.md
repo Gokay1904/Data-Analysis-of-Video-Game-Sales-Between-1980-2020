@@ -20,3 +20,13 @@ This project includes the analysis of regional and global sales of video game co
   - The company with the fastest sales growth
 
 Data Source: Kaggle
+
+### Libraries used:
+
+- scipy
+- sklearn
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- IPython
