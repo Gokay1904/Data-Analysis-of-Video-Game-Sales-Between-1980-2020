@@ -21,7 +21,7 @@ This project includes the analysis of regional and global sales of video game co
 
 Data Source: Kaggle
 
-### Libraries used:
+#### Libraries used:
 
 - scipy
 - sklearn
