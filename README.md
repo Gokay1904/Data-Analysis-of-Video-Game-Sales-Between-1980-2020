@@ -1,7 +1,7 @@
 # Data-Analysis-of-Video-Game-Sales-Between-1980-2020
 This project includes the analysis of regional and global sales of video game companies in the last 40 years.
 
---
+---
 
 Some of the analyzed datas:
 
@@ -18,8 +18,8 @@ Some of the analyzed datas:
 - Popular genres and their popularity in different regions
 
 - Linear Prediction Models
- -- Publisher which has a most steady increase in the top 20
- -- The company with the fastest sales growth
+ - Publisher which has a most steady increase in the top 20
+ - The company with the fastest sales growth
 
 Data Source: Kaggle
 
