@@ -3,7 +3,7 @@ This project includes the analysis of regional and global sales of video game co
 
 ---
 
-Some of the analyzed datas:
+## Some of the analyzed datas:
 
 - Distribution of game companies' sales to the American, European and Japanese markets
 
