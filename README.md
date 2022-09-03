@@ -17,6 +17,9 @@ Some of the analyzed datas:
 
 - Popular genres and their popularity in different regions
 
+-Linear Prediction Models
+ - Most steadily increase publisher in top 20
+
 Data Source: Kaggle
 
 Note: There may be inaccurate inferences due to some missing(NaN) data. It's just my personal work.
