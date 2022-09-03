@@ -18,8 +18,8 @@ Some of the analyzed datas:
 - Popular genres and their popularity in different regions
 
 - Linear Prediction Models
- - Publisher which has a most steady increase in the top 20
- - The company with the fastest sales growth
+  - Publisher which has a most steady increase in the top 20
+  - The company with the fastest sales growth
 
 Data Source: Kaggle
 
