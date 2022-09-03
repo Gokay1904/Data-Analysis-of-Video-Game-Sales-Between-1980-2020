@@ -5,7 +5,7 @@ This project includes the analysis of regional and global sales of video game co
 
 - Distribution of game companies' sales to the American, European and Japanese markets
 
-- Publishers with the highest sales in Europe, America and Asia and in total.
+- Publishers with the highest sales in Europe, America and Asia and in global.
 
 - The position of the top selling game company in the world markets and its position relative to its competitors
 
