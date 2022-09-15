@@ -18,6 +18,9 @@ This project includes the analysis of regional and global sales of video game co
 - Linear Prediction Models
   - Publisher which has a most steady increase in the top 20
   - The company with the fastest sales growth
+  
+- Advanced Prediction Models using Deep Learning
+  - Long-Short-Term Model
 
 **Data Source: Kaggle**
 
@@ -30,3 +33,4 @@ This project includes the analysis of regional and global sales of video game co
 - matplotlib
 - seaborn
 - IPython
+- keras
