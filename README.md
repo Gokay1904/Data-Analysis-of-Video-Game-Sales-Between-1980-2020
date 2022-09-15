@@ -20,7 +20,7 @@ This project includes the analysis of regional and global sales of video game co
   - The company with the fastest sales growth
   
 - Advanced Prediction Models using Deep Learning
-  - Price Prediction using Long-Short-Term Model (LSTM)
+  - Price Prediction using Long-Short-Term(LSTM) Model
 
 **Data Source: Kaggle**
 
