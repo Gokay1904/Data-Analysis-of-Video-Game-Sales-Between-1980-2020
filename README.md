@@ -21,7 +21,7 @@ This project includes the analysis of regional and global sales of video game co
   
 - Advanced Prediction Models using Deep Learning
   - Price Prediction using Long-Short-Term(LSTM) Model
-  - Companies that have similar model. (To be added)
+  - Companies that have similar price model. (To be added)
 
 **Data Source: Kaggle**
 
