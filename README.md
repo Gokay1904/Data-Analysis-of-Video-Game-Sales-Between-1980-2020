@@ -26,7 +26,8 @@ This project includes the analysis of regional and global sales of video game co
   - Companies that have a similar price model. (To be added)
 
 - Clustering Methods in Sales
-  - The most or least influential companies in regions.
+  - Agglomerative Hierarchical Clustering
+    - The most or least influential companies in regions.
   
 **Data Source: Kaggle**
 
