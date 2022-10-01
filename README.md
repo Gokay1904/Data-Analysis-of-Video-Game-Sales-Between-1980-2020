@@ -11,9 +11,11 @@ This project includes the analysis of regional and global sales of video game co
 
 - Increase in company revenues over the years
 
-- Publishers losing their popularity and its reason
+- Publishers losing their popularity
 
 - Popular genres and their popularity in different regions
+
+- Game sales by genres of the top selling companies
 
 - Linear Prediction Models
   - Publisher which has a most steady increase in the top 20
@@ -23,6 +25,9 @@ This project includes the analysis of regional and global sales of video game co
   - Price Prediction using Long-Short-Term(LSTM) Model
   - Companies that have a similar price model. (To be added)
 
+- Clustering Methods in Sales
+  - The most or least influential companies in regions.
+  
 **Data Source: Kaggle**
 
 #### Libraries used:
