@@ -23,7 +23,6 @@ This project includes the analysis of regional and global sales of video game co
   
 - Advanced Prediction Models using Deep Learning
   - Price Prediction using Long-Short-Term(LSTM) Model
-  - Companies that have a similar price model. (To be added)
 
 - Clustering Methods in Sales
   - Agglomerative Hierarchical Clustering
